@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
-![banner](https://user-images.githubusercontent.com/78790570/151718683-4cafbde4-5f32-4a98-bcb9-4c4d881ee518.png)
+![MasterHead](https://user-images.githubusercontent.com/78790570/151718683-4cafbde4-5f32-4a98-bcb9-4c4d881ee518.png)
 <h3 align="center">A passionate full-stack developer from morocco</h3>
 <img align="right" alt="Coding" width="400" src="Laptop.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubzaabali&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubzaabali" /> </p>
