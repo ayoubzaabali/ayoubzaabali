@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h3 align="center">A passionate full-stack developer from morocco</h3>
-<img align="right" alt="Coding" width="400" src=""/>
+<img align="right" alt="Coding" width="400" src="Laptop.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubzaabali&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubzaabali" /> </p>
 
 - 💬 Ask me about **Web Apps developement**
