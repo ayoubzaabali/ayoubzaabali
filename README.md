@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
 <h3 align="center">A passionate full-stack developer from morocco</h3>
-
-- 💬 Ask me about **Web Apps developement**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubzaabali&show_icons=true&locale=en&layout=compact" alt="ayoubzaabali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubzaabali&show_icons=true&locale=en" alt="ayoubzaabali" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubzaabali&show_icons=true&locale=en" alt="ayoubzaabali" /></p>
 
