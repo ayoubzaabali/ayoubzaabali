@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
 <h3 align="center">A passionate full-stack developer from morocco</h3>
-<img align="right" alt="Coding" width="400" src="Laptop.gif"/>
 
 - 💬 Ask me about **Web Apps developement**
 
