@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
 <h3 align="center">A passionate full-stack developer from morocco</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ayoub.zaabali@gmail.com</h3>
        <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
