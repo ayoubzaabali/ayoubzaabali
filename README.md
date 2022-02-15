@@ -6,8 +6,7 @@ No matter what role I played on a project, I've always focused on scalability, s
 
 I insist on well-defined communication channels and a cohesive approach within the team. If you think I can help you with your project, don't hesitate to contact me for a free consultation.
 
-
-<p align="left">ayoub.zaabali@gmail.com</p>
+      
        <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
@@ -29,3 +28,5 @@ I insist on well-defined communication channels and a cohesive approach within t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoubzaabali&show_icons=true&locale=en" alt="ayoubzaabali" /></p>
 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">ayoub.zaabali@gmail.com</p>
