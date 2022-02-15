@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayoub Zaabali</h1>
-<h3 align="center">A passionate full-stack developer from morocco</h3>
-<h3 align="left">Connect with me:</h3>
+Full Stack Lead with extensive hands-on experience in building websites and applications for multiple purposes. during the past years I have never stopped learning and adapting, my focus has been on building the most efficient tools using a wide range of technologies.
+
+
 <p align="left">ayoub.zaabali@gmail.com</p>
        <h3 align="left">Languages and Tools:</h3>
     <p align="left">
